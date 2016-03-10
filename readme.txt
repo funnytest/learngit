@@ -1,5 +1,6 @@
 git x a tool to control version.
 git x very good.
+I fix the conflict.
 git has stage.
 git add add
 creating a new branch is quick.
